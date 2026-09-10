@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/logesh2046/leetcode/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/logesh2046/leetcode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
