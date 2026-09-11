@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/logesh2046/leetcode/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/logesh2046/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/logesh2046/leetcode/tree/master/3870-count-commas-in-range) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/logesh2046/leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/logesh2046/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
